@@ -5,3 +5,11 @@ Think of this website as a dynamic reference sheet. Its not to learn from, but t
 
 ### Guides Basics
 - [basic Link](Basics.md)
+
+
+
+
+
+
+
+*This Website Is under development and is incomplete*
