@@ -1,7 +1,7 @@
 # Scratch101
 
-## Why? 
-Think of this website as a dynamic reference sheet. Its not to learn from, but to refer too when stuck. If you still can't remember or solve your problem using this site, then please feel free to msg me on telegram.
+## What?
+This website is a quick recap of scratch and programming concepts, aimed at younger, beginner programmers to help them learn from the very start  
 
 ### Guides Basics
 - [basic Link](Basics.md)
