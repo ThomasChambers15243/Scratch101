@@ -4,7 +4,8 @@
 Scratch is a visual programming language that works by dragging blocks from the left side (the code tab) over into the workspace (the large, white, middle area). There, you combine different types of blocks like legos to form logical code that controls sprites. Each sprite has its own workspace, with its own code. 
 
 
-<img src="https://github.com/ThomasChambers15243/Scratch101/blob/main/gifs/cat%20scratch%20demo.gif" width="800" height="400" />
+
+![Gif showing how Scratch Works](https://github.com/ThomasChambers15243/Scratch101/blob/main/gifs/cat%20scratch%20demo.gif)
 
 ### Blocks
 
