@@ -1,6 +1,8 @@
 
 # Logic and Computational Thinking
 
+[Home](https://github.com/ThomasChambers15243/Scratch101/blob/main/index.md)
+
 Logic is a step-by-step way of thinking about problems. It's very useful to be able to look at a problem, find the important information and then apply that to solve the problem. It's important since that is essential to good programming.
 
 The logic sheets bellow are a way to practice that sort of thinking. Put a **circle** in the box where the person does have the item and a **x** where they don't. 
