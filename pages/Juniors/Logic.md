@@ -15,6 +15,17 @@ The RCP is a logical problem where every item on the left side of the river need
 
 ### Logic Puzzles
 
+#### Jewelry
+
+<img width="296" alt="Logic Puzzle Image" src="https://user-images.githubusercontent.com/54739051/177547250-75c073be-517d-4cfd-9be0-20deb2139ed0.png">
+
+<details>
+<summary style="font-size:14px">Answer</summary>
+  <p>
+    <img width="296" alt="Logic Puzzle Image" src="https://user-images.githubusercontent.com/54739051/177547383-7c58666f-03be-45c6-8d72-8512b79eab39.png">
+  </p>
+</details>
+
 #### Vacation
 
 <img width="296" alt="Logic Puzzle Image" src="https://user-images.githubusercontent.com/54739051/177546601-96dc4512-4d11-451f-a2ed-fff0be8a1117.png">
@@ -26,13 +37,4 @@ The RCP is a logical problem where every item on the left side of the river need
   </p>
 </details>
 
-#### Jewelry
 
-<img width="296" alt="Logic Puzzle Image" src="https://user-images.githubusercontent.com/54739051/177547250-75c073be-517d-4cfd-9be0-20deb2139ed0.png">
-
-<details>
-<summary style="font-size:14px">Answer</summary>
-  <p>
-    <img width="296" alt="Logic Puzzle Image" src="https://user-images.githubusercontent.com/54739051/177547383-7c58666f-03be-45c6-8d72-8512b79eab39.png">
-  </p>
-</details>
