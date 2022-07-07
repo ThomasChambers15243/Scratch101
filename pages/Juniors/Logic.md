@@ -1,6 +1,10 @@
 
 # Logic and Computational Thinking
 
+Logic is a step-by-step way of thinking about problems. It's very useful to be able to look at a problem, find the important information and then apply that to solve the problem. It's important since that is essential to good programming.
+
+The logic sheets bellow are a way to practice that sort of thinking. Put a **circle** in the box where the person does have the item and a **x** where they don't. 
+
 ### The River Crossing Problem
 The RCP is a logical problem where every item on the left side of the river needs to be on the right side, but there's sme problems.
 - The farmer **has** to be in the boat for it to cross the river.
