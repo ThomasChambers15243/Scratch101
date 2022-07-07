@@ -1,7 +1,7 @@
 
 # Logic and Computational Thinking
 
-[Home](https://github.com/ThomasChambers15243/Scratch101/blob/main/index.md)
+[Home](../../index.md)
 
 Logic is a step-by-step way of thinking about problems. It's very useful to be able to look at a problem, find the important information and then apply that to solve the problem. It's important since that is essential to good programming.
 
