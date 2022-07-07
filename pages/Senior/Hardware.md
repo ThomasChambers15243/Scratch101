@@ -1,5 +1,6 @@
 # Hardware
 To be updated soon
+[Home](../../index.md)
 <img src="" alt="" width="" height=""/>
 
 <img src="https://user-images.githubusercontent.com/54739051/177615195-5e165519-0b2b-4fbe-8bd0-2877dbebdd6b.png" alt="Computer" width="260" height="260"/>
@@ -16,3 +17,4 @@ A computer is a machine made from smaller parts, which all work together, comple
 - ### Storage
 
 
+[Home](../../index.md)
