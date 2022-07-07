@@ -11,8 +11,8 @@ tom-chambers-contact-me.ijesv@simplelogin.co
 - [Pixel Art Maker](https://www.pixilart.com/draw)
 
 ### Guides Basics
-- [Juniors](pages/Juniors/Logic.md)
-- [Senior](pages/Senior/Hardware.md)
+- [Juniors](pages/Juniors/JuniorsHome.md)
+- [Senior](pages/Senior/SeniorsHome.md)
 - [Scratch Basics](pages/Basics.md)
 
 
