@@ -2,7 +2,8 @@
 [Home](../../index.md)
 
 
-- [Logic](../logic.md)
+- [Logic](Logic.md)
+- [Scratch Introduction](ScratchIntroduction.md)
 
 
 [Home](../../index.md)
