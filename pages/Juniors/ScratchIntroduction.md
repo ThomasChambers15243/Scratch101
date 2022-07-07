@@ -1,4 +1,4 @@
-# Scratch Basics
+# Scratch
 [Home](../../index.md)
 
 
